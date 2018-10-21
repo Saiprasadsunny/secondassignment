@@ -1,0 +1,26 @@
+.container{
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width 600px;
+    height: 500px;
+    background-color: greenyellow;
+}
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    float: left;
+}
+#box2{
+    height: 315px;
+    width: 196px;
+    background: red;
+    float: right;
+}
+#box3{
+    margin-left: 200px; 
+    background-color: blue;
+    height: 500px;
+    width: 900px;     
+}

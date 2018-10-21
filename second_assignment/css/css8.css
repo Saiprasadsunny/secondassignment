@@ -1,0 +1,34 @@
+.header1{
+    margin-top: 2%;
+    margin-left: 5%;
+    width:80%;
+    height: 73px;
+    border: 2px solid ;
+      }
+
+.header2{
+    margin-left: 5%;
+    width:80%;
+    height: 200px;
+    border: 2px solid ;
+      }
+
+.box{
+  display:flex;
+  margin-left: 4.5%;
+}
+.boxA{
+margin: 5px;
+padding: 80px;
+width: 14.8%;
+border: 2px solid ;
+}
+
+.footer{
+    margin-left: 5%;
+    width:80%;
+    height: 73px;
+    border: 2px solid;
+      }
+
+

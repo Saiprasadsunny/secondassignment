@@ -1,0 +1,28 @@
+.left {
+	width:30%;
+	background-color: green;
+	float:left;
+	height: 45%;
+    margin-left: 19%;
+    margin-top: 5%;
+    text-align:center;
+    color: white;
+    padding-top: 4%;
+    border-style: dotted;
+    
+}
+.right {
+	width:30%;
+	background-color: blue;
+	float:right;
+	height:45%;
+    margin-right: 19%;
+    margin-top: 5%;
+    text-align:center;
+    color: white;
+    padding-top: 4%;
+   border-style: dotted;
+    
+}
+
+

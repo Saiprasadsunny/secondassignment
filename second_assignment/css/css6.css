@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    
+}
+.container{
+    display: flex;
+    border-style:  solid;
+    border-width:8px; 
+    clear: both;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+.box1{
+    float: left;
+    background-color: orange;
+    width: 30%;
+    padding: 5%;
+   
+    
+}
+.box2{
+    float: right;
+    background-color: blue;
+    width: 80%;
+    padding: 6%;
+    
+    
+    
+    
+}

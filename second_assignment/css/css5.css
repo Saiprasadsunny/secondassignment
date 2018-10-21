@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    
+}
+.container{
+    clear: both;
+    display: table;
+    border-style: solid;
+    border-color: orangered;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.box1{
+    float: left;
+    background-color: blue;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
+.box2{
+    float: left;
+    background-color: white;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
+.box3{
+    float: left;
+    background-color: blue;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
+.box4{
+    float: left;
+    background-color: white;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
+.box5{
+    float: left;
+    background-color: blue;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
+.box6{
+    float: left;
+    background-color: white;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
+.box7{
+    float: left;
+    background-color: blue;
+    width: 10%;
+    padding: 40px;
+    color: white;
+    
+}
